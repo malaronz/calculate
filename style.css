@@ -1,0 +1,31 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.card {
+    background-color: rgb(209, 239, 214);
+}
+
+#btn_clr {
+    background-color: rgba(250, 235, 210, 0.969);
+}
+
+#btn_clr:hover {
+    background-color: rgba(253, 153, 111, 0.969);
+}
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+
+body {
+    background-image: url(https://phonoteka.org/uploads/posts/2021-05/1621731797_1-phonoteka_org-p-anime-fon-dlya-video-na-yutub-2.jpg);
+}
+
+.yas {
+    text-align: center;
+    color: beige;
+    -webkit-text-stroke: 1px rgb(153, 153, 113);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
