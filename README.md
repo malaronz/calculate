@@ -1,2 +1,2 @@
 ### КАЛЬКУЛЯТОР
-# calculate[index.html](index.html)
+# [calc](index.html)
